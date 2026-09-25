@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://github.com/zahoor631/zahoor631/blob/main/profile.jpeg?raw=true" alt="Banner" width="100%" />
+  <img src="https://github.com/zahoor631/zahoor631/blob/main/profile1.jpeg?raw=true" alt="Banner" width="100%" />
 </p>
 
 <!-- TYPING ANIMATION -->
