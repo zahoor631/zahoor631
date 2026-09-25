@@ -63,11 +63,7 @@
 
 ---
 
-<!-- GITHUB STATS -->
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?[username=zahoor631&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />](https://github-readme-activity-graph.vercel.app/graph?username=zahoor631&theme=github-compact&hide_border=true)
-</p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=zahoor631&theme=radical&hide_border=true" alt="GitHub Streak" />
