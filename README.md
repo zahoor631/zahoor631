@@ -47,7 +47,7 @@
 <td width="50%">
 
 <p align="center">
-  <img src="https://github.com/zahoor631/zahoor631/blob/main/profile.jpeg?raw=true" width="200" style="border-radius: 12px; border: 3px solid #F75C7E;" alt="Zahoor Illahi" />
+  <img src="https://github.com/zahoor631/zahoor631/blob/main/zahoor.jpg?raw=true" width="200" style="border-radius: 12px; border: 3px solid #F75C7E;" alt="Zahoor Illahi" />
 </p>
 
 </td>
