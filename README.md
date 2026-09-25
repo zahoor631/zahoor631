@@ -55,16 +55,6 @@
 </table>
 
 ---
-
-### 🎧 What I'm Listening To
-<p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=YOUR-SPOTIFY-ID&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR-SPOTIFY-ID&cover_image=true&theme=novatorem&bar_color=F75C7E&bar_color_cover=true" />
-  </a>
-</p>
-
----
-
 <!-- TECH STACK -->
 ### 🛠️ Tech Stack
 <p align="center">
