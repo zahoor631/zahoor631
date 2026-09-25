@@ -91,14 +91,6 @@
 
 ---
 
-<!-- ACTIVITY GRAPH -->
-### 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zahoor631&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
-</p>
-
----
-
 <!-- FOOTER -->
 <p align="center">
   <i>⭐️ From <a href="https://github.com/zahoor631">zahoor631</a> with ❤️</i>
