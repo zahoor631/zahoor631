@@ -56,7 +56,6 @@
 
 ---
 
-<!-- SPOTIFY -->
 ### 🎧 What I'm Listening To
 <p align="center">
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=YOUR-SPOTIFY-ID&redirect=true">
